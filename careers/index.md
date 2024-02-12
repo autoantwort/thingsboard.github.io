@@ -20,20 +20,20 @@ description: ThingsBoard Careers
 </div>
 
 <div id="technology">
-<object data="https://img.thingsboard.io/careers/angular.svg"></object>
-<object data="https://img.thingsboard.io/careers/spring.svg"></object>
-<object data="https://img.thingsboard.io/careers/java.svg"></object>
-<object data="https://img.thingsboard.io/careers/typescript.svg"></object>
-<object data="https://img.thingsboard.io/careers/kafka.svg"></object>
-<object data="https://img.thingsboard.io/careers/redis.svg"></object>
-<object data="https://img.thingsboard.io/careers/cassandra.svg"></object>
-<object data="https://img.thingsboard.io/careers/postgresql.svg"></object>
-<object data="https://img.thingsboard.io/careers/docker.svg"></object>
-<object data="https://img.thingsboard.io/careers/kubernets.svg"></object>
-<object data="https://img.thingsboard.io/careers/github.svg"></object>
-<object data="https://img.thingsboard.io/careers/aws.svg"></object>
-<object data="https://img.thingsboard.io/careers/azure.svg"></object>
-<object data="https://img.thingsboard.io/careers/google-cloud.svg"></object>
+<object data="https://img.tbqa.cloud/careers/angular.svg"></object>
+<object data="https://img.tbqa.cloud/careers/spring.svg"></object>
+<object data="https://img.tbqa.cloud/careers/java.svg"></object>
+<object data="https://img.tbqa.cloud/careers/typescript.svg"></object>
+<object data="https://img.tbqa.cloud/careers/kafka.svg"></object>
+<object data="https://img.tbqa.cloud/careers/redis.svg"></object>
+<object data="https://img.tbqa.cloud/careers/cassandra.svg"></object>
+<object data="https://img.tbqa.cloud/careers/postgresql.svg"></object>
+<object data="https://img.tbqa.cloud/careers/docker.svg"></object>
+<object data="https://img.tbqa.cloud/careers/kubernets.svg"></object>
+<object data="https://img.tbqa.cloud/careers/github.svg"></object>
+<object data="https://img.tbqa.cloud/careers/aws.svg"></object>
+<object data="https://img.tbqa.cloud/careers/azure.svg"></object>
+<object data="https://img.tbqa.cloud/careers/google-cloud.svg"></object>
 </div>
 
 <div id="about">
@@ -45,31 +45,31 @@ description: ThingsBoard Careers
 <h2>How do we work:</h2>
 <div id="advanGrid">
     <div>
-      <img class="advanImg" src="https://img.thingsboard.io/careers/schedule_icon.svg" alt="schedule icon">
+      <img class="advanImg" src="https://img.tbqa.cloud/careers/schedule_icon.svg" alt="schedule icon">
       <h5>Comfortable and flexible working schedule</h5>
     </div>
     <div>
-      <img class="advanImg" src="https://img.thingsboard.io/careers/support_icon.svg" alt="support icon">
+      <img class="advanImg" src="https://img.tbqa.cloud/careers/support_icon.svg" alt="support icon">
       <h5>A high-professional team without bureaucracy</h5>
     </div>
     <div>
-      <img class="advanImg" src="https://img.thingsboard.io/careers/target_icon.svg" alt="target icon">
+      <img class="advanImg" src="https://img.tbqa.cloud/careers/target_icon.svg" alt="target icon">
       <h5>Career growth opportunities and regular salary review</h5>
     </div>
     <div>
-      <img class="advanImg" src="https://img.thingsboard.io/careers/vacation_icon.svg" alt="vacation icon">
+      <img class="advanImg" src="https://img.tbqa.cloud/careers/vacation_icon.svg" alt="vacation icon">
       <h5>Team buildings, corporate events, paid vacations and sick leaves</h5>
     </div>
     <div>
-      <img class="advanImg" src="https://img.thingsboard.io/careers/sweet_icon.svg" alt="sweet icon">
+      <img class="advanImg" src="https://img.tbqa.cloud/careers/sweet_icon.svg" alt="sweet icon">
       <h5>Unlimited beverages, fruits and sweets</h5>
     </div>
     <div>
-      <img class="advanImg" src="https://img.thingsboard.io/careers/english_icon.svg" alt="english icon">
+      <img class="advanImg" src="https://img.tbqa.cloud/careers/english_icon.svg" alt="english icon">
       <h5>Free English classes</h5>
     </div>
     <div>
-      <img class="advanImg" src="https://img.thingsboard.io/careers/medical_icon.svg" alt="medical icon">
+      <img class="advanImg" src="https://img.tbqa.cloud/careers/medical_icon.svg" alt="medical icon">
       <h5>Medical Insurance</h5>
     </div>
 </div>

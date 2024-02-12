@@ -5,7 +5,7 @@ description: Create Device on edge and provision to cloud
 
 ---
 
-![image](https://img.thingsboard.io/coming-soon.jpg)
+![image](https://img.tbqa.cloud/coming-soon.jpg)
 
 ### Device management on edge
 

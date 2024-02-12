@@ -12,7 +12,7 @@ docker run -it -p 5021:5021 thingsboard/tb-gw-modbus-server:latest
 
 After running docker image, you can see the following logs in your terminal:
 
-![](https://img.thingsboard.io/gateway/dashboard/run-demo-modbus-server.png)
+![](https://img.tbqa.cloud/gateway/dashboard/run-demo-modbus-server.png)
 
 ### Setup connector
 
@@ -93,16 +93,16 @@ To create a connector, follow these steps:
 
 {% assign addNewConnector = '
     ===
-        image: https://img.thingsboard.io/gateway/dashboard/gateway-getting-started-7-ce.png,
+        image: https://img.tbqa.cloud/gateway/dashboard/gateway-getting-started-7-ce.png,
         title: Click "**Connectors configuration**" button on the right panel.
     ===
-        image: https://img.thingsboard.io/gateway/dashboard/gateway-getting-started-modbus-8-ce.png,
+        image: https://img.tbqa.cloud/gateway/dashboard/gateway-getting-started-modbus-8-ce.png,
         title: Click the "**+**" button, fill in "**Name**", "**Type**" and "**Logging level**" fields, paste your connector configuration into **Configuration** field and click on **Save** button.
     ===
-        image: https://img.thingsboard.io/gateway/dashboard/gateway-getting-started-modbus-9-ce.png,
+        image: https://img.tbqa.cloud/gateway/dashboard/gateway-getting-started-modbus-9-ce.png,
         title: Connector has been successfully added.
     ===
-        image: https://img.thingsboard.io/gateway/dashboard/gateway-getting-started-modbus-10-ce.png,
+        image: https://img.tbqa.cloud/gateway/dashboard/gateway-getting-started-modbus-10-ce.png,
         title: Toggle the switch to enable the connector.
 '
 %}
@@ -117,10 +117,10 @@ the remote settings.
 Also, you can see the connector logs to make sure that the connector works, for this purpose, follow these steps:
 {% assign seeConnectorLogs = '
     ===
-        image: https://img.thingsboard.io/gateway/dashboard/gateway-getting-started-modbus-11-ce.png,
+        image: https://img.tbqa.cloud/gateway/dashboard/gateway-getting-started-modbus-11-ce.png,
         title: Click on logs icon to open connector logs page.
     ===
-        image: https://img.thingsboard.io/gateway/dashboard/gateway-getting-started-modbus-logs-12-ce.png,
+        image: https://img.tbqa.cloud/gateway/dashboard/gateway-getting-started-modbus-logs-12-ce.png,
         title: You can see the "**Logs**" table that consists of "**Created time**", "**Status**" and "**Message**" columns.
 '
 %}

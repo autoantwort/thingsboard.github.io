@@ -5,4 +5,4 @@ description: Installing ThingsBoard PE in a cluster mode using microservices arc
 
 ---
 
-![image](https://img.thingsboard.io/coming-soon.jpg)
+![image](https://img.tbqa.cloud/coming-soon.jpg)

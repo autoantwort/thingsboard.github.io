@@ -23,4 +23,4 @@ return result;
 ```
 {: .copy-code}
 
-![image](https://img.thingsboard.io/user-guide/integrations/mqtt/mqtt-rpc-edit-downlink-tbel-3-pe.png)
+![image](https://img.tbqa.cloud/user-guide/integrations/mqtt/mqtt-rpc-edit-downlink-tbel-3-pe.png)

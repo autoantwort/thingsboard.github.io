@@ -5,4 +5,4 @@ description: Installing ThingsBoard PE from Alibaba Cloud Marketplace
 
 ---
 
-![image](https://img.thingsboard.io/coming-soon.jpg)
+![image](https://img.tbqa.cloud/coming-soon.jpg)

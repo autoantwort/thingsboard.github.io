@@ -28,4 +28,4 @@ return result;
 ```
 {: .copy-code}
 
-![image](https://img.thingsboard.io/user-guide/integrations/opc-ua/opc-ua-downlink-converter-java.png)
+![image](https://img.tbqa.cloud/user-guide/integrations/opc-ua/opc-ua-downlink-converter-java.png)

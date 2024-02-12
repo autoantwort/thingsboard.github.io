@@ -7,16 +7,16 @@ description: Import Trendz bundle into ThingsBoard
 
 tb-trendz-3.5-resource-lib-update:
   0:
-    image: https://img.thingsboard.io/trendz/trendz-tb_lib_fix_1.png
+    image: https://img.tbqa.cloud/trendz/trendz-tb_lib_fix_1.png
     title: 'Open widget bundle'
   1:
-    image: https://img.thingsboard.io/trendz/trendz-tb_lib_fix_2.png
+    image: https://img.tbqa.cloud/trendz/trendz-tb_lib_fix_2.png
     title: 'Search for Trendz bundle'
   2:
-    image: https://img.thingsboard.io/trendz/trendz-tb_lib_fix_3.png
+    image: https://img.tbqa.cloud/trendz/trendz-tb_lib_fix_3.png
     title: 'Edit widget'
   3:
-    image: https://img.thingsboard.io/trendz/trendz-tb_lib_fix_4.png
+    image: https://img.tbqa.cloud/trendz/trendz-tb_lib_fix_4.png
     title: 'Update library link'
 ---
 

@@ -24,4 +24,4 @@ return result;
 ```
 {: .copy-code}
 
-![image](https://img.thingsboard.io/user-guide/integrations/aws-iot/aws-iot-uplink-converter-tbel-pe.png)
+![image](https://img.tbqa.cloud/user-guide/integrations/aws-iot/aws-iot-uplink-converter-tbel-pe.png)

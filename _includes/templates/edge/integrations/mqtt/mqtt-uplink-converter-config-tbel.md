@@ -29,4 +29,4 @@ return result;
 ``` 
 {: .copy-code}
 
-![image](https://img.thingsboard.io/pe/edge/integrations/mqtt/add-mqtt-integration-template-2-edge.png)
+![image](https://img.tbqa.cloud/pe/edge/integrations/mqtt/add-mqtt-integration-template-2-edge.png)

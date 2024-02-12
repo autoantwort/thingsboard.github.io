@@ -23,4 +23,4 @@ return result;
 ```
 {: .copy-code}
 
-![image](https://img.thingsboard.io/user-guide/integrations/mqtt/mqtt-integration-edit-downlink-converter-tbel-1-pe.png)
+![image](https://img.tbqa.cloud/user-guide/integrations/mqtt/mqtt-integration-edit-downlink-converter-tbel-1-pe.png)

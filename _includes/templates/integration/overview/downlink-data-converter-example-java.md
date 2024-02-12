@@ -1,4 +1,4 @@
-![image](https://img.thingsboard.io/user-guide/integrations/downlink-converter-example-java.png)
+![image](https://img.tbqa.cloud/user-guide/integrations/downlink-converter-example-java.png)
 
 
 The full source code of javascript function used in converter:

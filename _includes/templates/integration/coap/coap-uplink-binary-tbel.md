@@ -30,8 +30,8 @@ return result;
 {: .copy-code}
 
 {% if docsPrefix == "pe/" %}
-![image](https://img.thingsboard.io/user-guide/integrations/coap/coap-uplink-converter-binary-tbel-pe.png)
+![image](https://img.tbqa.cloud/user-guide/integrations/coap/coap-uplink-converter-binary-tbel-pe.png)
 {% endif %}
 {% if docsPrefix == "paas/" %}
-![image](https://img.thingsboard.io/user-guide/integrations/coap/coap-uplink-converter-binary-tbel-paas.png)
+![image](https://img.tbqa.cloud/user-guide/integrations/coap/coap-uplink-converter-binary-tbel-paas.png)
 {% endif %}

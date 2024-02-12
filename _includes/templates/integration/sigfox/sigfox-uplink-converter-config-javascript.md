@@ -75,4 +75,4 @@ return result;
 ```
 {: .copy-code}
 
-![image](https://img.thingsboard.io/user-guide/integrations/sigfox/sigfox-uplink-converter-java-pe.png)
+![image](https://img.tbqa.cloud/user-guide/integrations/sigfox/sigfox-uplink-converter-java-pe.png)

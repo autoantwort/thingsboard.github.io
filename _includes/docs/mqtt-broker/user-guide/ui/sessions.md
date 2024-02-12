@@ -45,4 +45,4 @@ Here are the available actions for managing subscriptions:
 
 Please note that the Shared Subscriptions feature is read-only, meaning that modifications to shared subscriptions are not allowed.
 
-![image](https://img.thingsboard.io/mqtt-broker/user-guide/ui/session-subscriptions-1.png)
+![image](https://img.tbqa.cloud/mqtt-broker/user-guide/ui/session-subscriptions-1.png)

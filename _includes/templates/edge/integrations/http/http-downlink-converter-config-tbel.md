@@ -27,4 +27,4 @@ return result;
 
 Choose "Create new" and paste copied code to the Encoder function section. Click "Next";
 
-![image](https://img.thingsboard.io/pe/edge/integrations/http/add-http-integration-template-3-edge.png)
+![image](https://img.tbqa.cloud/pe/edge/integrations/http/add-http-integration-template-3-edge.png)

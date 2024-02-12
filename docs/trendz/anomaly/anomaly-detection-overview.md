@@ -7,7 +7,7 @@ description: What is anomaly detection system?✔ Anomaly detection examples ⚫
 
 scoreVsIndexExample:
     0:
-        image: https://img.thingsboard.io/trendz/anomaly/score_vs_index.png
+        image: https://img.tbqa.cloud/trendz/anomaly/score_vs_index.png
         title: 'Pump vibration pattern during start'
        
 ---

@@ -30,4 +30,4 @@ return result;
 ```
 {: .copy-code.expandable-10}
 
-![image](https://img.thingsboard.io/user-guide/integrations/particle/particle-create-downlink-tbel.png)
+![image](https://img.tbqa.cloud/user-guide/integrations/particle/particle-create-downlink-tbel.png)
