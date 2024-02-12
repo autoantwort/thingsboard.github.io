@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 echo "$(date +"%H:%M") Replacing image urls.. "
 
 extensions=( "*.md" "*.yml" "*.html" "*.liquid" "*.sass" "*.css" "*.js" "*.json" "*.sql" "*.cql")
